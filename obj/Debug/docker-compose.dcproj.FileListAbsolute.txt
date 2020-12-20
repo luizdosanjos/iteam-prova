@@ -1,0 +1,13 @@
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\appsettings.Development.json
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\appsettings.json
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\Properties\launchSettings.json
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\API.Taxas.exe
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\API.Taxas.dll
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\API.Taxas.pdb
+C:\Users\luiz.silva\source\repos\ITeam.Prova\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\luiz.silva\source\repos\ITeam.Prova\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\luiz.silva\source\repos\ITeam.Prova\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luiz.silva\source\repos\ITeam.Prova\bin\Debug\Microsoft.OpenApi.dll

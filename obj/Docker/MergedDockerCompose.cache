@@ -1,0 +1,16 @@
+services:
+  api.taxas:
+    build:
+      context: C:\Users\luiz.silva\source\repos\ITeam.Prova
+      dockerfile: API.Taxas/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: apitaxas
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\luiz.silva\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\luiz.silva\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
